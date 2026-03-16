@@ -1,15 +1,3 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/eng-reem-hamdan-%F0%93%82%86-b91b50383">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="mailto:reem.m.h005@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-</div>
-
 
 ###
 
@@ -66,6 +54,19 @@ I'm <b>Eng. Reem Hamdan</b>
 </div>
 
 ###
+<h3 align="left">My Accounts</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/eng-reem-hamdan-%F0%93%82%86-b91b50383">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="mailto:reem.m.h005@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+</div>
+
 
 <h3 align="left">🔥 My GitHub Stats</h3>
 
