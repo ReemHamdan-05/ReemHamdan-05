@@ -46,7 +46,7 @@ I'm <b>Eng. Reem Hamdan</b>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg" height="40"/>
+<img src="https://img.shields.io/badge/Pygame-Game%20Development-1F425F?style=for-the-badge&logo=python&logoColor=white"/>
 <img width="12"/>
 
 </div>
