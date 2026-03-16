@@ -1,16 +1,89 @@
-# 💫 About Me:
-Hi guys..<br>I'm ENG.REEM HAMDAN , a software engineering student in ZUJ.<br>A front-end dev<3
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eng-reem-hamdan-%F0%93%82%86-b91b50383) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reem.m.h005@gmail.com) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/eng-reem-hamdan-%F0%93%82%86-b91b50383">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="mailto:reem.m.h005@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-%23E85B12.svg?style=for-the-badge&logo=python&logoColor=white)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=ReemHamdan-05&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ReemHamdan-05.ReemHamdan-05"/>
+</div>
 
+###
+
+<h1 align="center">Hey there 👋 I'm Reem</h1>
+
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+
+I'm <b>Eng. Reem Hamdan</b>  
+
+🎓 Software Engineering Student at ZUJ  
+
+💻 Front-End Developer passionate about building responsive and user-friendly web interfaces  
+
+⚙️ I also work with <b>Back-End development using PHP</b> and building dynamic web applications  
+
+🎮 I enjoy creating small games and projects using <b>Pygame</b>  
+
+</p>
+
+###
+
+<h3 align="left">🛠 Language and Tools</h3>
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg" height="40"/>
+
+</div>
+
+###
+
+<h3 align="left">🔥 My GitHub Stats</h3>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ReemHamdan-05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220"/>
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
