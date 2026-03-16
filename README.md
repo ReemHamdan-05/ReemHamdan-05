@@ -11,10 +11,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ReemHamdan-05.ReemHamdan-05"/>
-</div>
-
 ###
 
 <h1 align="center">Hey there 👋 I'm Reem</h1>
@@ -65,6 +61,7 @@ I'm <b>Eng. Reem Hamdan</b>
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg" height="40"/>
+<img width="12"/>
 
 </div>
 
