@@ -21,7 +21,7 @@ I'm <b>Eng.Reem Hamdan</b>
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">Language : </h3>
 
 <div align="left">
 
@@ -55,14 +55,20 @@ I'm <b>Eng.Reem Hamdan</b>
 </div>
 
 
+<h3 align="left">✨Tools : </h3>
 
-<h3 align="left">🔥 My GitHub Stats</h3>
+<div align= "center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img width="12"/>
 
-<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40"/>
+<img width="12"/>
 
-<img src="https://streak-stats.demolab.com?user=ReemHamdan-05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" title="Mindex"/>
+<img width="12"/>
 </div>
+<!-- <h3 align="left">🔥 My GitHub Stats</h3>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
